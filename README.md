@@ -1,6 +1,7 @@
 **Prompted Segmentation for Crack Detection**
 
 **Overview**
+
 This project uses the Segment Anything Model (SAM) to generate binary segmentation masks for cracks and drywall joints using a prompted segmentation approach. A single point prompt is provided per image, enabling mask generation without manual annotations.
 
 **Datasets**
